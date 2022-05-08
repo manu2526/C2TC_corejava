@@ -3,6 +3,7 @@
 	<name>interface</name>
 	<comment></comment>
 	<projects>
+		<project>C2TC</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
